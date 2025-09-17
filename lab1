@@ -1,1 +1,56 @@
-
+mkdir darumaka5
+touch darumaka5/mantine
+touch darumaka5/shelmet
+touch darumaka5/munna
+mkdir golduck0
+touch golduck0/surskit
+mkdir golduck0/sandslash
+touch golduck0/sandslash/jumpluff
+touch golduck0/sandslash/ampharos
+touch golduck0/sandslash/mudkip
+mkdir golduck0/sandslash/grovyle
+touch golduck0/sandslash/grovyle/vibrava
+touch golduck0/sandslash/grovyle/cubchoo
+touch golduck0/sandslash/grovyle/grimer
+touch golduck0/sandslash/grovyle/tirtouga
+mkdir golduck0/sandslash/grovyle/magmortar
+mkdir golduck0/sandslash/grovyle/magmortar/cleffa
+mkdir golduck0/sandslash/grovyle/magmortar/mareep
+mkdir golduck0/sandslash/grovyle/magmortar/metang
+touch golduck0/sandslash/grovyle/magmortar/mudkip
+mkdir golduck0/sandslash/grovyle/magmortar/cacturne
+touch golduck0/sandslash/grovyle/axew
+touch golduck0/sandslash/charmander
+touch golduck0/sandslash/anorith
+mkdir golduck0/sandslash/seismitoad
+touch golduck0/sandslash/seismitoad/hoothoot
+touch golduck0/sandslash/seismitoad/meganium
+touch golduck0/sandslash/seismitoad/meditite
+mkdir -p mudkip7/whismur/clefairy
+touch mudkip7/whismur/clefairy/goldeen
+touch mudkip7/whismur/clefairy/zweilous
+mkdir mudkip7/whismur/clefairy/metang
+mkdir -p mudkip7/whismur/swampert/dewott/darmanitan
+touch mudkip7/whismur/swampert/dewott/roselia
+touch mudkip7/whismur/swampert/dewott/scolipede
+touch mudkip7/whismur/swampert/dewott/tyrogue
+mkdir mudkip7/whismur/swampert/dewott/kirlia
+mkdir mudkip7/whismur/swampert/dewott/yanma
+touch mudkip7/whismur/swampert/monferno
+touch mudkip7/whismur/swampert/hoothoot
+touch mudkip7/whismur/typhlosion
+mkdir -p mudkip7/whismur/tyrogue/jumpluff/zigzagoon
+touch mudkip7/whismur/tyrogue/jumpluff/gastly
+touch mudkip7/whismur/tyrogue/golett
+touch mudkip7/whismur/tyrogue/pikachu
+mkdir mudkip7/whismur/linoone
+touch mudkip7/whismur/linoone/metapod
+touch mudkip7/whismur/linoone/mantine
+touch mudkip7/whismur/linoone/weepinbell
+touch mudkip7/whismur/linoone/swanna
+mkdir -p mudkip7/whismur/linoone/growlithe/seaking
+touch mudkip7/whismur/linoone/growlithe/vespiquen
+mkdir mudkip7/whismur/loudred
+touch mudkip7/whismur/loudred/kricketot
+mkdir mudkip7/whismur/loudred/jellicent
+touch mudkip7/whismur/loudred/jellicent/excadrill
