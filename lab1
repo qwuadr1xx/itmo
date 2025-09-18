@@ -54,3 +54,122 @@ mkdir mudkip7/whismur/loudred
 touch mudkip7/whismur/loudred/kricketot
 mkdir mudkip7/whismur/loudred/jellicent
 touch mudkip7/whismur/loudred/jellicent/excadrill
+touch mudkip7/whismur/loudred/jellicent/torchic
+touch mudkip7/whismur/loudred/jellicent/golbat
+mkdir mudkip7/whismur/loudred/jellicent/hitmonlee
+mkdir mudkip7/whismur/loudred/jellicent/cottonee
+mkdir mudkip7/whismur/loudred/jellicent/onix
+mkdir mudkip7/whismur/loudred/jellicent/gothorita
+mkdir mudkip7/whismur/loudred/kabadra
+touch mudkip7/whismur/loudred/kabadra/skiploom
+touch mudkip7/whismur/loudred/kabadra/spinarak
+touch mudkip7/whismur/loudred/kabadra/flaxure
+mkdir mudkip7/whismur/loudred/goldeen
+touch mudkip7/whismur/loudred/goldeen/rufflet
+mkdir mudkip7/whismur/loudred/goldeen/sunflora
+touch mudkip7/whismur/loudred/azurill
+mkdir -p mudkip7/whismur/loudred/duskull/porygon
+mkdir mudkip7/whismur/loudred/duskull/shellder
+touch mudkip7/whismur/loudred/duskull/vileplume
+touch mudkip7/whismur/loudred/duskull/yanmega
+touch mudkip7/whismur/loudred/duskull/rufflet
+mkdir mudkip7/whismur/loudred/duskull/glaceon
+mkdir mudkip7/whismur/loudred/bibarel
+touch mudkip7/whismur/loudred/bibarel/skiploom
+mkdir mudkip7/whismur/loudred/bibarel/lanturn
+mkdir mudkip7/whismur/loudred/bibarel/jellicent
+touch mudkip7/whismur/loudred/bibarel/ninetales
+touch mudkip7/whismur/starmie
+mkdir -p mudkip7/petilil/electrode/froslass
+touch mudkip7/petilil/electrode/froslass/ambipom
+touch mudkip7/petilil/electrode/froslass/vileplume
+mkdir mudkip7/petilil/electrode/froslass/lairon
+mkdir -p mudkip7/petilil/electrode/reuniclus/chinchou
+touch mudkip7/petilil/electrode/reuniclus/krokork
+touch mudkip7/petilil/electrode/reuniclus/gligar
+touch mudkip7/petilil/electrode/magcargo
+touch mudkip7/petilil/electrode/gulpin
+touch mudkip7/petilil/electrode/totodile
+touch mudkip7/petilil/electrode/elgyem
+touch mudkip7/petilil/electrode/krokorok
+touch mudkip7/petilil/grumpig
+mdkir -p mudkip7/magby/granbull
+touch mudkip7/magby/granbull/cubone
+mkdir -p mudkip7/magby/granbull/quagsire/espeon
+mkdir mudkip7/magby/granbull/quagsire/exploud
+touch mudkip7/magby/granbull/armmaldo
+mkdir -p mudkip7/magby/granbull/remoraid/krabby
+touch mudkip7/magby/granbull/remoraid/swellow
+mkdir mudkip7/magby/granbull/remoraid/nidoking
+mkdir mudkip7/magby/jolteon
+touch mudkip7/magby/jolteon/claydol
+touch mudkip7/magby/jolteon/frillish
+mkdir -p mudkip7/magby/jolteon/herdier/petilil
+touch mudkip7/magby/jolteon/herdier/wynaut
+mkdir mudkip7/magby/jolteon/houndoom
+touch mudkip7/magby/jolteon/houndoom/tentacruel
+mkdir mudkip7/magby/jolteon/houndoom/ursaring
+mkdir mudkip7/magby/jolteon/houndoom/squirtle
+mkdir mudkip7/magby/jolteon/houndoom/wormadam
+touch mudkip7/magby/jolteon/houndoom/darumaka
+touch mudkip7/magby/jolteon/houndoom/beedrill
+mkdir -p mudkip7/magby/jolteon/blitzle/carvanha
+touch mudkip7/magby/jolteon/blitzle/probopass
+mkdir mudkip7/magby/jolteon/blitzle/litwick
+mkdir mudkip7/magby/jolteon/blitzle/sentret
+touch mudkip7/magby/jolteon/mudkip
+touch mudkip7/magby/ambipom
+mkdir -p mudkip7/magby/woobat/snorlax/pawniard
+touch mudkip7/magby/woobat/snorlax/sealeo
+mkdir mudkip7/magby/woobat/snorlax/cascoon
+touch mudkip7/magby/woobat/snorlax/minccino
+mkdir mudkip7/magby/woobat/snorlax/gligar
+touch mudkip7/magby/woobat/snorlax/persion
+touch mudkip7/magby/woobat/kabutops
+touch mudkip7/magby/woobat/bonsly
+touch mudkip7/magby/woobat/abra
+mkdir -p mudkip7/magby/woobat/froslass/elgyem
+mkdir mudkip7/magby/woobat/froslass/buneary
+mkdir mudkip7/magby/woobat/froslass/meowth
+touch mudkip7/magby/woobat/salamence
+touch mudkip7/magby/woobat/zoroark
+mkdir -p mudkip7/magby/pansage/kabuto
+touch mudkip7/magby/pansage/kabuto/tirtouga
+touch mudkip7/magby/pansage/kabuto/lampent
+mkdir mudkip7/magby/pansage/kabuto/metapod
+mkdir mudkip7/magby/pansage/mightyena
+touch mudkip7/magby/pansage/mightyena/arbok
+touch mudkip7/magby/pansage/mightyena/archeops
+mkdir mudkip7/magby/pansage/mightyena/conkeldurr
+touch mudkip7/magby/pansage/lickilicky
+touch mudkip7/magby/pansage/raticate
+mkdir -p mudkip7/magby/pansage/bisharp/blitzle
+mkdir mudkip7/magby/pansage/bisharp/zoroark
+touch mudkip7/magby/pansage/politoed
+mkdir mudkip7/magby/igglybuff
+touch mudkip7/magby/igglybuff/hitmontop
+touch mudkip7/magby/igglybuff/tynamo
+mkdir -p mudkip7/magby/igglybuff/alakazam/togekiss
+mkdir mudkip7/magby/igglybuff/alakazam/eelektross
+mkdir mudkip7/magby/igglybuff/alakazam/mareep
+touch mudkip7/magby/igglybuff/alakazam/zweilous
+mkdir mudkip7/magby/igglybuff/alakazam/vanillish
+touch mudkip7/magby/igglybuff/alakazam/simipour
+mkdir mudkip7/magby/igglybuff/alakazam/buneary
+touch mudkip7/magby/igglybuff/octillery
+touch mudkip7/magby/igglybuff/caterpie
+mkdir -p mudkip7/magby/igglybuff/hariyama/frosslass
+touch mudkip7/magby/igglybuff/hariyama/slugma
+mkdir mudkip7/magby/igglybuff/hariyama/glameow
+touch mudkip7/magby/igglybuff/hariyama/octillery
+mkdir mudkip7/magby/igglybuff/hariyama/kricketune
+mkdir mudkip7/magby/stunky
+touch mudkip7/magby/stunky/onix
+touch mudkip7/magby/stunky/misdreavus
+touch mudkip7/magby/stunky/corphish
+touch mudkip7/magby/stunky/wailord
+touch mudkip7/magby/stunky/whimsicott
+touch mudkip7/spinarak
+touch primeape9
+touch tranquill8
+touch venusaur1
