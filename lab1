@@ -13,8 +13,7 @@ touch golduck0/sandslash/grovyle/vibrava
 touch golduck0/sandslash/grovyle/cubchoo
 touch golduck0/sandslash/grovyle/grimer
 touch golduck0/sandslash/grovyle/tirtouga
-mkdir golduck0/sandslash/grovyle/magmortar
-mkdir golduck0/sandslash/grovyle/magmortar/cleffa
+mkdir -p golduck0/sandslash/grovyle/magmortar/cleffa
 mkdir golduck0/sandslash/grovyle/magmortar/mareep
 mkdir golduck0/sandslash/grovyle/magmortar/metang
 touch golduck0/sandslash/grovyle/magmortar/mudkip
@@ -93,7 +92,7 @@ touch mudkip7/petilil/electrode/totodile
 touch mudkip7/petilil/electrode/elgyem
 touch mudkip7/petilil/electrode/krokorok
 touch mudkip7/petilil/grumpig
-mdkir -p mudkip7/magby/granbull
+mkdir -p mudkip7/magby/granbull
 touch mudkip7/magby/granbull/cubone
 mkdir -p mudkip7/magby/granbull/quagsire/espeon
 mkdir mudkip7/magby/granbull/quagsire/exploud
@@ -158,7 +157,7 @@ touch mudkip7/magby/igglybuff/alakazam/simipour
 mkdir mudkip7/magby/igglybuff/alakazam/buneary
 touch mudkip7/magby/igglybuff/octillery
 touch mudkip7/magby/igglybuff/caterpie
-mkdir -p mudkip7/magby/igglybuff/hariyama/frosslass
+mkdir -p mudkip7/magby/igglybuff/hariyama/froslass
 touch mudkip7/magby/igglybuff/hariyama/slugma
 mkdir mudkip7/magby/igglybuff/hariyama/glameow
 touch mudkip7/magby/igglybuff/hariyama/octillery
