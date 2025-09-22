@@ -23,17 +23,17 @@ mkdir seedot8/crobat
 touch slugma1
 
 echo "weigth=114.6 height=75.0 atk=12 def=7" > blaziken5
-echo "Cпособности Swarm Sturdy Rock Head" > goletto/pineco
-echo "Способности Overgrow Chlorophyll Sap Sipper" > goletto/meganium
+echo "Cпособности Swarm Sturdy Rock Head" > golett0/pineco
+echo "Способности Overgrow Chlorophyll Sap Sipper" > golett0/meganium
 echo "Ходы Bullet Seed Earth Power Giga Drain Grass Pledge Iron Tail Mud-Slap Natural Gift Rock Climb Secret Power Seed Bomb Sleep Talk Snore Stealth Rock Superpower Synthesis Worry Seed" > grotle7
 echo "Способности Blaze Focus Heatproof Gluttony" > murkrow9/pignite
-echo "Тип диеты Omnivore" > murkrow9/medi tite
-echo "Ходы After You Ancientpower Defense Curl Double-Edge Earth Power Heat Wave Iron Defense Mud-Slap Pain Split Rollout Sleep Talk Snore" > slugmal
+echo "Тип диеты Omnivore" > murkrow9/meditite
+echo "Ходы After You Ancientpower Defense Curl Double-Edge Earth Power Heat Wave Iron Defense Mud-Slap Pain Split Rollout Sleep Talk Snore" > slugma1
 
 # №2
 
 chmod 006 blaziken5
-chmod 566 goletto0
+chmod 566 golett0
 chmod 333 golett0/electivire
 chmod 660 golett0/pineco
 chmod 751 golett0/umbreon
@@ -55,3 +55,17 @@ chmod 500 seedot8/crobat
 chmod 444 slugma1
 
 # №3
+
+ln slugma1 golett0/meganiumslugma
+cp grotle7 golett0/umbreon
+cat golett0/meganium golett0/pineco > blaziken5_77
+cp slugma1 seedot8/medititeslugma
+cp -r murkrow9 seedot8/sandslash
+ln -s seedot8 Copy_67
+ln -s grotle7 murkrow9/pignitegrotle
+
+# №4
+
+mkdir tmp
+
+ls -R | egrep '^d' | cat * | wc -m > /tmp/resultD.txt
