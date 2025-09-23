@@ -68,4 +68,7 @@ ln -s grotle7 murkrow9/pignitegrotle
 
 mkdir tmp
 
-ls -R | egrep '^d' | cat * | wc -m > /tmp/resultD.txt
+cat $(ls -R | egrep '^d') | wc -m > /tmp/result1.txt
+ls -lRu murkrow9 2>&1
+cat $(ls -R 2>&1 | egrep 't$') 2>&1 | sort
+ls -lRS 2>/tmp/result4.txt | grep '^g'
