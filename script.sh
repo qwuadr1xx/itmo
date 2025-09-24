@@ -66,8 +66,6 @@ ln -s grotle7 murkrow9/pignitegrotle
 
 # №4
 
-mkdir tmp
-
 wc -m d* */d* */*/d* > /tmp/result1.txt
 ls -lRtur murkrow9 2>&1
 cat *t */*t */*/*t 2>&1 | sort
