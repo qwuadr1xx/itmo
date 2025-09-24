@@ -71,7 +71,7 @@ mkdir tmp
 wc -m d* */d* */*/d* > /tmp/result1.txt
 ls -lRtur murkrow9 2>&1
 cat *t */*t */*/*t 2>&1 | sort
-ls -lRSr 2>/tmp/result4.txt | grep -E '^g'
+ls -lSRr lab0/g* lab0/*/g* lab0/*/*/g* 2>/tmp/result4.txt
 ls -lRtr 2>/tmp/result5.txt | grep -E '[^ ]*te;[^ ]*$' | tail -n 2
 ls -lRtr | head -n 3
 
@@ -83,5 +83,5 @@ rm -rf blaziken5
 rm -rf lab0/murkrow9/pignite
 rm -rf Copy_*
 rm -rf lab0/golett0/meganiumslug*
-rmdir golett0
+rm -rf golett0
 rmdir lab0/seedot8/kricketot
