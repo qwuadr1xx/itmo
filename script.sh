@@ -68,7 +68,20 @@ ln -s grotle7 murkrow9/pignitegrotle
 
 mkdir tmp
 
-cat $(ls -R | egrep '^d') | wc -m > /tmp/result1.txt
-ls -lRu murkrow9 2>&1
-cat $(ls -R 2>&1 | egrep 't$') 2>&1 | sort
-ls -lRS 2>/tmp/result4.txt | grep '^g'
+wc -m d* */d* */*/d* > /tmp/result1.txt
+ls -lRtur murkrow9 2>&1
+cat *t */*t */*/*t 2>&1 | sort
+ls -lRSr 2>/tmp/result4.txt | grep -E '^g'
+ls -lRtr 2>/tmp/result5.txt | grep -E '[^ ]*te;[^ ]*$' | tail -n 2
+ls -lRtr | head -n 3
+
+cd ..
+
+# №5
+
+rm -rf blaziken5
+rm -rf lab0/murkrow9/pignite
+rm -rf Copy_*
+rm -rf lab0/golett0/meganiumslug*
+rmdir golett0
+rmdir lab0/seedot8/kricketot
