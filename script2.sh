@@ -1,3 +1,5 @@
+cd lab0
+
 chmod o=rw blaziken5
 chmod 566 golett0
 chmod 333 golett0/electivire
