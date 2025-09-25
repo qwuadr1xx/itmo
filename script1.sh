@@ -1,0 +1,29 @@
+mkdir lab0
+cd lab0
+
+touch blaziken5
+mkdir -p golett0/electivire
+touch golett0/pineco
+mkdir golett0/umbreon
+mkdir golett0/phanpy
+touch golett0/meganium
+touch grotle7
+mkdir -p murkrow9/poliwrath
+mkdir murkrow9/duskull
+mkdir murkrow9/leavanny
+touch murkrow9/pignite
+mkdir -p seedot8/dragonair
+touch seedot8/meditite
+mkdir seedot8/kricketot
+mkdir seedot8/sandslash
+mkdir seedot8/golurk
+mkdir seedot8/crobat
+touch slugma1
+
+echo "weigth=114.6 height=75.0 atk=12 def=7" > blaziken5
+echo "Cпособности Swarm Sturdy Rock Head" > golett0/pineco
+echo "Способности Overgrow Chlorophyll Sap Sipper" > golett0/meganium
+echo "Ходы Bullet Seed Earth Power Giga Drain Grass Pledge Iron Tail Mud-Slap Natural Gift Rock Climb Secret Power Seed Bomb Sleep Talk Snore Stealth Rock Superpower Synthesis Worry Seed" > grotle7
+echo "Способности Blaze Focus Heatproof Gluttony" > murkrow9/pignite
+echo "Тип диеты Omnivore" > murkrow9/meditite
+echo "Ходы After You Ancientpower Defense Curl Double-Edge Earth Power Heat Wave Iron Defense Mud-Slap Pain Split Rollout Sleep Talk Snore" > slugma1
