@@ -2,6 +2,7 @@ cd lab0
 
 chmod u+w golett0 2>/dev/null
 chmod -R u+wx golett0 2>/dev/null
+chmod u+wx murkrow9/pignite 2>/dev/null
 
 rm -rf blaziken5
 rm -rf murkrow9/pignite
